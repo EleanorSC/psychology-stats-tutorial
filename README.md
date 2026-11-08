@@ -25,7 +25,7 @@ All datasets are synthetic and generated within the notebook.
 
 ## Getting started
 
-**[Open the Jupyter notebook](sampling_and_inference.ipynb)**
+**[Open the Jupyter notebook](tutorials/sampling_and_inference.ipynb)**
 
 The notebook can be viewed directly on GitHub or executed using Jupyter Notebook or Google Colab.
 
